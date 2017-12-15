@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.pdb
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\bin\Debug\Project.exe
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\bin\Debug\Project.pdb
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.exe
+C:\Users\Administrator\Desktop\งานๆๆ\Project\Project\obj\Debug\Project.pdb
